@@ -10,4 +10,9 @@
 <h3>program2</h3>
 <img src="PR. 6 Filament/ss/palindrome.png" />
 
+<h2>INDICATORS</h2>
+<h3>program1</h3>
+<img src="PR. 8 Indicator/ss/1.png" />
+<h3>program2</h3>
+<img src="PR. 8 Indicator/ss/2.png" />
 
