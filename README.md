@@ -16,3 +16,6 @@
 <h3>program2</h3>
 <img src="PR. 8 Indicator/ss/2.png" />
 
+<h2>calculator</h2>
+<h3>program1</h3>
+<img src="calulator/menu.png" />
