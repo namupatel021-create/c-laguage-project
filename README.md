@@ -18,4 +18,4 @@
 
 <h2>calculator</h2>
 <h3>program1</h3>
-<img src="calulator/menu.png" />
+<img src="calculator/menu.png" />
